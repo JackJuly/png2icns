@@ -24,6 +24,7 @@ The `sample.png` is provided for testing.
 Simply run the `png2icns.sh` and then **specify** the path to your source png image. The icns flie will be generated and saved on your **desktop**.
 
 ```
+$ git clone https://github.com/JackJuly/png2icns.git
 $ cd png2icns
 $ chmod u+x png2icns.sh
 $ ./png2icns.sh

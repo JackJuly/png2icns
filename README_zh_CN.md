@@ -22,6 +22,7 @@ iconutil: /usr/bin/iconutil
 只需简单地运行`png2icns.sh`脚本，并**指定**源png图片的路径，生成的.icns文件将会被保存在你的**桌面**。
 
 ```
+$ git clone https://github.com/JackJuly/png2icns.git
 $ cd png2icns
 $ chmod u+x png2icns.sh
 $ ./png2icns.sh
