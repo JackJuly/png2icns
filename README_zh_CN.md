@@ -2,7 +2,7 @@
 [English](README.md) | 中文
 
 
-这里提供了两种工具*(shell脚本和app)*可帮助你在macOS系统上轻松的将一个png图标生成为.icns的图标文件。
+这里提供了两种工具* (shell脚本和app) *可帮助你在macOS系统上轻松的将一个png图标生成为.icns的图标文件。
 
 ## 注意事项
 
